@@ -8497,8 +8497,14 @@
 			width: 105%;
 			margin-top: 0px;
 			margin-left: -30px;
+			margin-bottom: 30px;
 		}
 
+		.making {
+			margin-top: 70px;
+			border-bottom: #ECECEC solid 1px;
+			padding-bottom: 80px;
+		}
 
 
 		/*sidebar*/
